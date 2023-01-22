@@ -16,7 +16,12 @@
 
 # IDE
 .idea
+.vscode
 
-# Credentials
-pkg/captainjackserviceaccount.json
-localtest.sh
+
+.DS_Store
+data/
+
+.venv
+runtime.log
+pylintrc
